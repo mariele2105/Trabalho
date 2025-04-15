@@ -20,3 +20,4 @@
 2025-04-15 15:08:30,572 - INFO - Caminho do arquivo informado: C:/Users/ludy_/OneDrive/Documentos/LUDY/IESB/A de M/Trabalho/Trabalho/Students_Grading_Dataset.csv
 2025-04-15 15:08:30,583 - INFO - Arquivo CSV carregado com sucesso.
 2025-04-15 15:08:30,597 - INFO - Resumo estatístico do DataFrame exibido.
+2025-04-15 17:17:21,728 - INFO - Programa iniciado.
