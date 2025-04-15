@@ -10,3 +10,13 @@
 2025-04-15 13:15:50,739 - INFO - Valores nulos em 'Attendance (%)' substituídos pela mediana.
 2025-04-15 13:20:36,912 - WARNING - Coluna numérica inválida selecionada: 
 2025-04-15 13:20:37,365 - INFO - Gráfico de dispersão gerado.
+2025-04-15 15:06:58,707 - INFO - Programa iniciado.
+2025-04-15 15:07:34,988 - INFO - Usuário validado: Ludymilla
+2025-04-15 15:07:50,096 - INFO - Caminho do arquivo informado: C:/Users/ludy_/OneDrive/Documentos/LUDY/IESB/A de M/Trabalho/Trabalho/Students_Grading_Dataset.csv
+2025-04-15 15:07:50,112 - INFO - Arquivo CSV carregado com sucesso.
+2025-04-15 15:07:50,129 - INFO - Resumo estatístico do DataFrame exibido.
+2025-04-15 15:08:23,463 - INFO - Caminho do arquivo informado: C://Null
+2025-04-15 15:08:23,463 - ERROR - Arquivo não encontrado.
+2025-04-15 15:08:30,572 - INFO - Caminho do arquivo informado: C:/Users/ludy_/OneDrive/Documentos/LUDY/IESB/A de M/Trabalho/Trabalho/Students_Grading_Dataset.csv
+2025-04-15 15:08:30,583 - INFO - Arquivo CSV carregado com sucesso.
+2025-04-15 15:08:30,597 - INFO - Resumo estatístico do DataFrame exibido.
